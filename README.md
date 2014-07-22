@@ -9,11 +9,14 @@ Requirements
 
 * node
 * pure360 account
-* pure360 system login and password
+* Active pure360 system login and password
 
 Usage
 --------
 
+run : `$ node SendOne2OneCLT.js`
+
+
+
 
 ...
-
